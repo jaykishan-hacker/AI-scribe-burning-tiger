@@ -1,0 +1,12 @@
+aiscribe.txt
+aiscribe2.txt
+settings.txt
+
+.venv
+__pycache__
+build
+dist
+recording.wav
+output
+client.spec
+.aider*
